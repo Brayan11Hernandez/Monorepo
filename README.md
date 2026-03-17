@@ -39,9 +39,9 @@ Se utilizó MySQL como motor de base de datos.
 La estructura fue creada y gestionada mediante Prisma Migrate.
 
 ## URLs
-- Frontend: PENDIENTE
-- Backend: PENDIENTE
-- API Docs: PENDIENTE
+- Frontend:[ (http://localhost:5173/](http://localhost:5173/))
+- Backend: http://localhost:3000/
+- API Docs: http://localhost:3000/docs/
 
 ## Evidencia de base de datos
 Incluir una captura de pantalla donde se observen las tablas:
